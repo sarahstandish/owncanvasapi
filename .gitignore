@@ -1,0 +1,7 @@
+.vs/ 
+courses/
+grades/
+users/
+keys_and_ids.py
+__pycache__/
+.vscode/
