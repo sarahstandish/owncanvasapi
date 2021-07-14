@@ -18,7 +18,7 @@ Included but not limited to:
 - Conclude courses
 
 ## Installation and use
-These scripts can be downloaded and run individually from the command line. Run `pip install canvas API` to install the Canvas API library.
+These scripts can be downloaded and run individually from the command line. Run `pip install canvasapi` to install the Canvas API library.
 
 ## Useful references
 - [Canvas API Python library documentation](https://canvasapi.readthedocs.io)
